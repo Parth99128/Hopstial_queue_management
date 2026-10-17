@@ -1,0 +1,12 @@
+[2026-10-17 07:36:40] === starter check (XAMPP) ===
+[2026-10-17 07:36:40] code synced
+[2026-10-17 07:36:40] starting xampp mysqld...
+[2026-10-17 07:36:43] mysql ready=True
+[2026-10-17 07:36:46] starting xampp apache...
+[2026-10-17 07:36:52] site up=True -> http://localhost/hospital-queue/index.php
+[2026-10-17 07:44:16] === starter check (XAMPP) ===
+[2026-10-17 07:44:16] code synced
+[2026-10-17 07:44:16] mysqld already running
+[2026-10-17 07:44:18] mysql ready=True
+[2026-10-17 07:44:19] apache already running
+[2026-10-17 07:44:19] site up=True -> http://localhost/hospital-queue/index.php
